@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+shopify.com	TRUE	/	FALSE	1999999999	_shopify_y	74e2f878-80f5-4746-b106-7e40f48c6bd4
+shopify.com	TRUE	/	FALSE	1999999999	_shopify_s	cac78a2b-5f7d-47e2-843e-acfc52b00185
+shopify.com	TRUE	/	FALSE	1999999999	_y	74e2f878-80f5-4746-b106-7e40f48c6bd4
+shopify.com	TRUE	/	FALSE	1999999999	_s	cac78a2b-5f7d-47e2-843e-acfc52b00185
+themes.shopify.com	TRUE	/	FALSE	1999999999	_shopify-theme_store_session	79eb2f098a907f93f49bd20085b6239a
+themes.shopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

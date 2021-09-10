@@ -1,0 +1,15 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 10 Sep 2021 01:53:20 at https://www.bootstrapdash.com/demo/azia/v1.0.0/template/page-invoice.html mbwa
+(httrack https://www.bootstrapdash.com/demo/azia/v1.0.0/template/page-invoice.html -o mbwa )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:54:43	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link mbwa/robots.txt (from primary/primary)
+01:54:43	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link mbwa/ (from primary/primary)
+01:54:43	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link mbwa/ (from primary/primary)
+01:54:43	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link mbwa/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 23 seconds : 82 links scanned, 77 files written (2099859 bytes overall) [360562 bytes received at 4344 bytes/sec], 2099953 bytes transferred using HTTP compression in 78 files, ratio 15%, 26.0 requests per connection
+(2 errors, 2 warnings, 0 messages)

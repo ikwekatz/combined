@@ -1,0 +1,17 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 10 Sep 2021 02:49:27 at https://themes.shopify.com/themes/dawn/styles/default/preview?surface_detail=trending-themes&surface_inter_position=3&surface_intra_position=1&surface_type=home imeisha
+(httrack https://themes.shopify.com/themes/dawn/styles/default/preview?surface_detail=trending-themes&surface_inter_position=3&surface_intra_position=1&surface_type=home -o imeisha )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:49:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link imeisha/robots.txt (from primary/primary)
+02:49:37	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link imeisha/ (from primary/primary)
+02:49:38	Error: 	"Not Found" (404) at link https://themes.shopify.com/themes/dawn/styles/default/POST (from https://themes.shopify.com/themes/dawn/styles/default/preview?surface_detail=trending-themes&surface_inter_position=3&surface_intra_position=1&surface_type=home)
+02:49:38	Error: 	"Not Found" (404) at link https://themes.shopify.com/themes/dawn/styles/default/_other.set (from https://themes.shopify.com/themes/dawn/styles/default/preview?surface_detail=trending-themes&surface_inter_position=3&surface_intra_position=1&surface_type=home)
+02:49:38	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link imeisha/ (from primary/primary)
+02:49:43	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link imeisha/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 9 links scanned, 2 files written (53759 bytes overall) [66907 bytes received at 4181 bytes/sec], 204283 bytes transferred using HTTP compression in 5 files, ratio 27%, 2.3 requests per connection
+(4 errors, 2 warnings, 0 messages)

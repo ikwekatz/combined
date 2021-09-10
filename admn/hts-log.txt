@@ -1,0 +1,20 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 10 Sep 2021 00:51:04 at https://wrraptheme.com/templates/compass/html/ec-product.html tmp
+(httrack https://wrraptheme.com/templates/compass/html/ec-product.html -o tmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:52:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link tmp/robots.txt (from primary/primary)
+00:52:54	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link tmp/ (from primary/primary)
+00:56:10	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link tmp/ (from primary/primary)
+00:56:10	Error: 	"Not Found" (404) at link https://wrraptheme.com/templates/compass/html/assets/fonts/nucleo-outline.eot (from https://wrraptheme.com/templates/compass/html/assets/css/main.css)
+00:56:10	Error: 	"Not Found" (404) at link https://wrraptheme.com/templates/compass/html/assets/fonts/nucleo-outline.woff2 (from https://wrraptheme.com/templates/compass/html/assets/css/main.css)
+00:56:10	Error: 	"Not Found" (404) at link https://wrraptheme.com/templates/compass/html/assets/fonts/nucleo-outline.woff (from https://wrraptheme.com/templates/compass/html/assets/css/main.css)
+00:56:10	Error: 	"Not Found" (404) at link https://wrraptheme.com/templates/compass/html/assets/fonts/nucleo-outline.ttf (from https://wrraptheme.com/templates/compass/html/assets/css/main.css)
+00:56:10	Error: 	"Not Found" (404) at link https://wrraptheme.com/templates/compass/html/agent-profile.html (from https://wrraptheme.com/templates/compass/html/index2.html)
+00:56:45	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link tmp/ (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 41 seconds : 309 links scanned, 299 files written (15885566 bytes overall) [12167256 bytes received at 35681 bytes/sec], 4325481 bytes transferred using HTTP compression in 79 files, ratio 10%, 8.4 requests per connection
+(7 errors, 2 warnings, 0 messages)

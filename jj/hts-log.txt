@@ -1,0 +1,25 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 10 Sep 2021 01:40:06 at https://p.w3layouts.com/demos/28-03-2016/shoppy/web/index.html mbwa
+(httrack https://p.w3layouts.com/demos/28-03-2016/shoppy/web/index.html -o mbwa )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:40:48	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link mbwa/robots.txt (from primary/primary)
+01:40:48	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link mbwa/ (from primary/primary)
+01:41:12	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/28-03-2016/shoppy/web/lib/modernizr/modernizr-custom.js (from https://p.w3layouts.com/demos/28-03-2016/shoppy/web/index.html)
+01:41:31	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link mbwa/ (from primary/primary)
+01:41:31	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/28-03-2016/shoppy/web/images/arrow.png (from https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/style.css)
+01:41:31	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/28-03-2016/shoppy/web/images/calender.png (from https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/style.css)
+01:41:31	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/28-03-2016/shoppy/web/images/get.jpg (from https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/style.css)
+01:41:31	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/28-03-2016/shoppy/web/images/filter-bg.png (from https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/style.css)
+01:41:39	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link mbwa/ (from primary/primary)
+01:41:39	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/loading.gif (from https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/magnific-popup.css)
+01:41:39	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/loading@2x.gif (from https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/magnific-popup.css)
+01:41:39	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/prev@2x.png (from https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/magnific-popup.css)
+01:41:39	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/next@2x.png (from https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/magnific-popup.css)
+01:41:39	Error: 	"Not Found" (404) at link https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/close@2x.png (from https://p.w3layouts.com/demos/28-03-2016/shoppy/web/css/magnific-popup.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 33 seconds : 91 links scanned, 76 files written (2941501 bytes overall) [1614841 bytes received at 17363 bytes/sec], 1985437 bytes transferred using HTTP compression in 51 files, ratio 30%, 29.0 requests per connection
+(12 errors, 2 warnings, 0 messages)

@@ -1,0 +1,39 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 10 Sep 2021 02:16:22 at https://coderthemes.com/hyper/modern/apps-ecommerce-shopping-cart.html tmp
+(httrack https://coderthemes.com/hyper/modern/apps-ecommerce-shopping-cart.html -o tmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:18:56	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link tmp/robots.txt (from primary/primary)
+02:18:56	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link tmp/ (from primary/primary)
+02:22:32	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link tmp/ (from primary/primary)
+02:22:32	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/assets/fontsunicons.eot?34404611 (from https://coderthemes.com/hyper/modern/assets/css/icons.min.css)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/true/ (from https://coderthemes.com/hyper/modern/assets/js/vendor.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/isDSTShifted is deprecated. See http://momentjs.com/guides/ (from https://coderthemes.com/hyper/modern/assets/js/vendor.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/rtl.min.css (from https://coderthemes.com/hyper/modern/assets/js/app.min.js)
+02:22:51	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link tmp/ (from primary/primary)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://coderthemes.com/hyper/modern/assets/js/vendor/simplemde.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/GET (from https://coderthemes.com/hyper/modern/assets/js/vendor/simplemde.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/codemirror/addon/edit/continuelist.js (from https://coderthemes.com/hyper/modern/assets/js/vendor/simplemde.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/codemirror/addon/display/fullscreen.js (from https://coderthemes.com/hyper/modern/assets/js/vendor/simplemde.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/codemirror/mode/markdown/markdown.js (from https://coderthemes.com/hyper/modern/assets/js/vendor/simplemde.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/codemirror/addon/mode/overlay.js (from https://coderthemes.com/hyper/modern/assets/js/vendor/simplemde.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/codemirror/addon/display/placeholder.js (from https://coderthemes.com/hyper/modern/assets/js/vendor/simplemde.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/codemirror/addon/selection/mark-selection.js (from https://coderthemes.com/hyper/modern/assets/js/vendor/simplemde.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/codemirror/mode/gfm/gfm.js (from https://coderthemes.com/hyper/modern/assets/js/vendor/simplemde.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/codemirror/mode/xml/xml.js (from https://coderthemes.com/hyper/modern/assets/js/vendor/simplemde.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/blots/ (from https://coderthemes.com/hyper/modern/assets/js/vendor/quill.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/formats/ (from https://coderthemes.com/hyper/modern/assets/js/vendor/quill.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/assets/css/vendor/40px.png (from https://coderthemes.com/hyper/modern/assets/css/vendor/jstree.min.css)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/typeahead.js (from https://coderthemes.com/hyper/modern/assets/js/vendor/typeahead.bundle.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/Data needs to have a dataByTopic or data property. See more in http://britecharts.github.io/britecharts/global.html (from https://coderthemes.com/hyper/modern/assets/js/vendor/britecharts.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/xl/worksheets/sheet1.xml (from https://coderthemes.com/hyper/modern/assets/js/vendor/buttons.html5.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/xl/workbook.xml (from https://coderthemes.com/hyper/modern/assets/js/vendor/buttons.html5.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/xl/styles.xml (from https://coderthemes.com/hyper/modern/assets/js/vendor/buttons.html5.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/[Content_Types].xml (from https://coderthemes.com/hyper/modern/assets/js/vendor/buttons.html5.min.js)
+02:22:51	Error: 	"Not Found" (404) at link https://coderthemes.com/hyper/modern/buttons.pdf (from https://coderthemes.com/hyper/modern/assets/js/vendor/buttons.html5.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 29 seconds : 355 links scanned, 326 files written (29298825 bytes overall) [12298125 bytes received at 31614 bytes/sec], 20464802 bytes transferred using HTTP compression in 236 files, ratio 16%, 23.4 requests per connection
+(26 errors, 2 warnings, 0 messages)
